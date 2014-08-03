@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Databases" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Databases">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Type" type="xs:string" minOccurs="0" />
+                <xs:element name="Server" type="xs:string" minOccurs="0" />
+                <xs:element name="Database" type="xs:string" minOccurs="0" />
+                <xs:element name="Username" type="xs:string" minOccurs="0" />
+                <xs:element name="Password" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Databases>
+    <Name>test1</Name>
+    <Type>Sqlserver</Type>
+    <Server>127.0.0.1</Server>
+    <Database>PipingSystem</Database>
+    <Username>sa</Username>
+    <Password>12345</Password>
+  </Databases>
+  <Databases>
+    <Name>sun</Name>
+    <Type>Sqlserver</Type>
+    <Server>HHJ14ZZMFM44GNT</Server>
+    <Database>msdb</Database>
+    <Username>sa</Username>
+    <Password>123456</Password>
+  </Databases>
+  <Databases>
+    <Name>sql server</Name>
+    <Type>Sqlserver</Type>
+    <Server>sun</Server>
+    <Database>msdb</Database>
+    <Username>sa</Username>
+    <Password>123456</Password>
+  </Databases>
+  <Databases>
+    <Name>s</Name>
+    <Type>Sqlserver</Type>
+    <Server>sun</Server>
+    <Database>msdb</Database>
+    <Username>sa</Username>
+    <Password>123456</Password>
+  </Databases>
+</NewDataSet>

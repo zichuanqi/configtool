@@ -1,0 +1,294 @@
+[2014-06-29 14:23:03,928] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:23:17,267] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:23:29,890] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:23:42,504] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:23:55,165] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:24:07,779] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:24:20,522] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:24:33,142] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:24:45,762] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:24:58,373] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:25:10,999] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:25:23,658] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:25:36,326] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:25:48,946] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:26:01,546] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:26:14,096] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:26:26,691] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:26:39,293] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:26:51,884] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:27:04,455] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:27:17,064] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:27:29,668] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:27:42,256] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:27:54,850] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:28:07,418] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:28:19,985] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:28:32,571] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:28:45,148] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:28:57,747] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:29:10,401] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:29:22,975] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:29:35,662] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:29:48,218] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:30:00,780] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:30:13,377] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:30:25,939] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:30:38,515] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:30:51,082] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:31:03,650] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:31:16,224] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:31:28,786] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:31:41,343] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:31:53,936] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:32:06,527] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:32:19,120] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:32:31,707] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:32:44,324] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:32:57,146] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15
+[2014-06-29 14:33:09,705] [INFO] ',' 附近有语法错误。 [configtool.FrmMain.timer1_Tick(C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:380)]
+System.Data.SqlClient.SqlException (0x80131904): ',' 附近有语法错误。
+   在 configtool.DBHelper.SqlExecuteTranSQL(String connectString, String sql) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\DBHelper.cs:行号 574
+   在 configtool.FrmMain.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\configtool2\configtool\FrmMain.cs:行号 371
+ClientConnectionId:fdc64e12-23dd-4c03-b631-a3a3a43e7ff4
+Error Number:102,State:1,Class:15

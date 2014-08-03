@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="SelectedTag" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="SelectedTag">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="DSN" type="xs:string" minOccurs="0" />
+                <xs:element name="TagName" type="xs:string" minOccurs="0" />
+                <xs:element name="TagValue" type="xs:string" minOccurs="0" />
+                <xs:element name="Condition" type="xs:string" minOccurs="0" />
+                <xs:element name="SQL" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <SelectedTag>
+    <DSN>test1</DSN>
+    <TagName>tag1</TagName>
+    <TagValue>0</TagValue>
+    <Condition>Greater than or equal to 1</Condition>
+    <SQL>INSERT INTO test
+           (ColName1
+           ,ColValue1
+           ,ColName2
+           ,ColValue2
+           ,ColName3
+           ,ColValue3
+           ,Remark)
+     VALUES
+           ('{no1.name}'
+           ,{no1.value}
+           ,'{no2.name}'
+           ,{no2.value}
+           ,'{no3.name}'
+           ,{no3.value}
+           ,'test1'
+		   )</SQL>
+  </SelectedTag>
+  <SelectedTag>
+    <DSN>test1</DSN>
+    <TagName>tag2</TagName>
+    <TagValue>1</TagValue>
+    <Condition>Changed</Condition>
+    <SQL>INSERT INTO test
+           (ColName1
+           ,ColValue1
+           ,ColName2
+           ,ColValue2
+           ,ColName3
+           ,ColValue3
+           ,Remark)
+     VALUES
+           ('{no1.name}'
+           ,{no1.value}
+           ,'{no2.name}'
+           ,{no2.value}
+           ,'{no3.name}'
+           ,{no3.value}
+           ,'test2'
+		   )</SQL>
+  </SelectedTag>
+  <SelectedTag>
+    <DSN>test1</DSN>
+    <TagName>tag3</TagName>
+    <TagValue>3</TagValue>
+    <Condition>Changed</Condition>
+    <SQL>exec proc_test  '{no1.name}',{no1.value},'{no2.name}',{no2.value},'{no3.name}',{no3.value}</SQL>
+  </SelectedTag>
+</NewDataSet>
